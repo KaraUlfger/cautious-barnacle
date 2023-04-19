@@ -2,7 +2,7 @@
 
 
 ## Description
-Application to check weather in multiple locations, while retaining previously search cities in Search History. Weather shows today's weather and 5 day forecast. 
+Application to check weather in multiple locations, while retaining previously search cities in Search History. Weather shows today's weather and 5 day forecast. Clicking Sun/Moon icons will change light and dark css style sheets for different themes
 
 
 ## Acceptance Criteria
@@ -18,7 +18,9 @@ THEN I am again presented with current and future conditions for that city
 
 
 ## Link to Application
+https://karaulfger.github.io/cautious-barnacle/
 
+https://github.com/KaraUlfger/cautious-barnacle 
 
 ## Screenshots of Application 
 
