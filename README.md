@@ -2,6 +2,7 @@
 
 
 ## Description
+Application to check weather in multiple locations, while retaining previously search cities in Search History. Weather shows today's weather and 5 day forecast. 
 
 
 ## Acceptance Criteria
@@ -20,6 +21,8 @@ THEN I am again presented with current and future conditions for that city
 
 
 ## Screenshots of Application 
+
+![Screenshot of Application](./assets/images/ "Application Screenshot")
 
 
 ## Credits
