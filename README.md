@@ -22,7 +22,8 @@ THEN I am again presented with current and future conditions for that city
 
 ## Screenshots of Application 
 
-![Screenshot of Application](./assets/images/ "Application Screenshot")
+![Screenshot of darkmode](./assets/images/darkmode.png "Dark Mode Screenshot")
+![Screenshot of lightmode](./assets/images/lightmode.png "Light Mode Screenshot")
 
 
 ## Credits

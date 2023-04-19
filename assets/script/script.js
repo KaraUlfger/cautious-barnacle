@@ -261,11 +261,11 @@ $(".clearListBtn").on("click", () => {
 // theme switcher
 function toggleTheme() {
   var theme = document.getElementById("theme");
-  if (theme.getAttribute("href") === "/assets/css/light.css") {
-    theme.setAttribute("href", "/assets/css/dark.css");
+  if (theme.getAttribute("href") === "./assets/css/light.css") {
+    theme.setAttribute("href", "./assets/css/dark.css");
     
   } else {
-    theme.setAttribute("href", "/assets/css/light.css");
+    theme.setAttribute("href", "./assets/css/light.css");
   }
 }
 
